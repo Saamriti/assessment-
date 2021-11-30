@@ -7,7 +7,11 @@
   <p>In the first notebook we have performed some operations on dataset using scikit-learn library.</p>
   <p>In the second notebook we have performed Deutsch’s algorithm using qiskit</p>
 <h1>How to run the notebook?</h1>
-  <p></p>
+  <ul>
+    <li>Open terminal</li>
+    <li>Add command(Jupyter notebook)</li>
+    <li></li>
+  </ul>
 </body>
 </html>
 
