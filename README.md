@@ -12,6 +12,7 @@
     <li>Add command(Jupyter notebook)</li>
     <li>Then choose python from top right menu</li>
     <li>Then jupyter notebook will be opened.</li>
+    <li>Jupyter files have been provided in the above folder.</li>
   </ul>
 </body>
 </html>
