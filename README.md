@@ -10,7 +10,8 @@
   <ul>
     <li>Open terminal</li>
     <li>Add command(Jupyter notebook)</li>
-    <li></li>
+    <li>Then choose python from top right meanu</li>
+    <li>Then jupyter notebook will be opened.</li>
   </ul>
 </body>
 </html>
