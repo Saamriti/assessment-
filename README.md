@@ -14,7 +14,7 @@
     <li>Then jupyter notebook will be opened.</li>
     <li>Jupyter files have been provided in the above folder.</li>
   </ul>
-<tspan fill="green">world</tspan>
+  <span style="color:red;">jhdhks</span>
   
 </body>
 </html>
