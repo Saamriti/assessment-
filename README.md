@@ -14,7 +14,7 @@
     <li>Then jupyter notebook will be opened.</li>
     <li>Jupyter files have been provided in the above folder.</li>
   </ul>
-  <p style="background-color:#eee;">pip intall scikit-learn</p>
+  <p style="background-color:#000;">pip intall scikit-learn</p>
 </body>
 </html>
 
