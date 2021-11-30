@@ -1,12 +1,5 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <style>
-      .para{
-      background-color:#000;
-      }
-    </style>
-  </head>
 <body>
 
 <h1>Why Repository exists?</h1>
@@ -21,7 +14,9 @@
     <li>Then jupyter notebook will be opened.</li>
     <li>Jupyter files have been provided in the above folder.</li>
   </ul>
-  <p class="para">pip install scikit-learn</p>
+  ````
+pip install boto
+````
   
 </body>
 </html>
