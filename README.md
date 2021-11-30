@@ -14,7 +14,6 @@
     <li>Then jupyter notebook will be opened.</li>
     <li>Jupyter files have been provided in the above folder.</li>
   </ul>
-  <div style="background-color:red;">box</div>
   
 </body>
 </html>
