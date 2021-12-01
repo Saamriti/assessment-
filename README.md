@@ -3,7 +3,7 @@
 <body>
 
   
-  <img src="file:///home/webtunix/Desktop/image.png" style="width:400px;height:400px;">
+  <img src="https://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1508152648/Jupyter-notebook-Definitive-Guide_ul01sa.png" style="width:400px;height:400px;">
 
 <h1>Why Repository exists?</h1>
   <p>In this repository we have discussed about two jupyter notebooks and these two jupyter notebook contains scikit-learn notebook and quantum notebook.</p>
