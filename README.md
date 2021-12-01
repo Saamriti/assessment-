@@ -3,7 +3,7 @@
 <body>
 
   
-  <img src="![image](https://user-images.githubusercontent.com/95270736/144175092-778e7622-19b5-40e2-88ba-98ddfd8bae7a.png)" style="width:400px;height:400px;">
+  <img src="![image]![image](https://user-images.githubusercontent.com/95270736/144175571-4648464c-b481-4509-8e20-8ba162e09877.png))" style="width:400px;height:400px;">
 
 <h1>Why Repository exists?</h1>
   <p>In this repository we have discussed about two jupyter notebooks and these two jupyter notebook contains scikit-learn notebook and quantum notebook.</p>
