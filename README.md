@@ -13,6 +13,7 @@ of examples across the library or pick a particular part that you find interesti
   <p>Appropriate plots and other visualisations to enhance your notebook for viewers.</p>
   <p>A clear and concise comparison of quantum computing and classical computing.</p>
   <p>An explanation of Deutsch’s algorithm and code simulating it using qiskit.</p>
+  [Documentation](https://github.com/Saamriti/assessment-/blob/main/Documentation.odt)
 <h1>How to run the notebook?</h1>
   <ul>
     <li>Open terminal</li>
