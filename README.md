@@ -10,6 +10,9 @@
 choose these yourself, based on what is covered in class or otherwise. Note that the
 demonstrations are at your discretion – you may choose to have an overall spread
 of examples across the library or pick a particular part that you find interesting.</p>
+  <p>Appropriate plots and other visualisations to enhance your notebook for viewers.</p>
+  <p>A clear and concise comparison of quantum computing and classical computing.</p>
+  <p>An explanation of Deutsch’s algorithm and code simulating it using qiskit.</p>
 <h1>How to run the notebook?</h1>
   <ul>
     <li>Open terminal</li>
