@@ -7,8 +7,8 @@
 
 <h1>Why Repository exists?</h1>
   <p>In this repository we have discussed about two jupyter notebooks and these two jupyter notebook contains scikit-learn notebook and quantum notebook.</p>
-  <p>In the first notebook we have performed some operations on dataset using scikit-learn library.</p>
-  <p>In the second notebook we have performed Deutsch’s algorithm using qiskit</p>
+  <p>In the notebook we have performed some operations on dataset using scikit-learn library.</p>
+  <p>In the other notebook we have performed Deutsch’s algorithm using qiskit</p>
   <p>Demonstrations of at least three interesting scikit-learn algorithms. You may
 choose these yourself, based on what is covered in class or otherwise. Note that the
 demonstrations are at your discretion – you may choose to have an overall spread
